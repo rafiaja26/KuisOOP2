@@ -1,0 +1,4 @@
+===== STRUK RIWAYAT TRANSAKSI - Event Organizer Puncak =====
+1. ACT-01 (Qori) | OBJ-A (Konser VIP Premium) | Qty: 3 | Total: Rp1500000
+2. ACT-02 (Rafi) | OBJ-C (Workshop Ekonomis) | Qty: 2 | Total: Rp100000
+3. ACT-02 (Rafi) | OBJ-A (Konser VIP Premium) | Qty: 1 | Total: Rp500000
